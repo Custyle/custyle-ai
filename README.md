@@ -57,7 +57,8 @@ One-click order → Built and shipped to your door
 
 From feeling to physical product. Minutes, not weeks.
 
-![Create with AI — Start from a prompt or photo](Custyle_CreatewithAI.png)
+![Create with AI — Start from a prompt or photo]([Custyle_CreatewithAI.png](https://github.com/Custyle/custyle-ai/blob/main/Your%20Vibe-Made%20Real.png))
+
 
 ![Interactive Design Process — Explore multiple variations](Custyle_InteractiveDesigProcess.png)
 
