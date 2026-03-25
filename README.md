@@ -13,8 +13,7 @@ You have a vibe — a memory, a meme, an inside joke, an aesthetic that's just *
 
 **[Turn any vibe into something real →](https://custyle.ai)**
 
-![Custyle Homepage](Custyle_Homepage.png)
-https://github.com/Custyle/custyle-ai/blob/main/Your%20Vibe-Made%20Real.png
+![Custyle Homepage](https://github.com/Custyle/custyle-ai/raw/main/Your%20Vibe–Made%20Real.png)
 
 ---
 
