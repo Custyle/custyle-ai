@@ -7,7 +7,7 @@
 
 > Most commerce begins with products. Custyle begins with people.
 
-You have a vibe — a memory, a meme, an inside joke, an aesthetic that's just *you*. You want it on a T-shirt, a hoodie, a mug. But you can't design. You don't have a factory. You just have the feeling.
+You have a vibe — a memory, a meme, an inside joke, an aesthetic that's just *you*. You want it on a hoodie, a pair of sneakers, a piece of jewelry, a canvas on your wall. But you can't design. You don't have a factory. You just have the feeling.
 
 **Custyle is the AI Merch Agent that turns that feeling into something real.** Describe what you want, and a crew of 9 specialized AI agents handles everything — creative direction, artwork, product matching, manufacturing, and delivery. No design skills. No minimum orders. No generic-looking merch.
 
@@ -85,19 +85,93 @@ Every design goes through 9 layers of intelligence. Not just generated — shape
 
 ## What You Can Create
 
-### 13 Product Categories
+### The Product Engine — Everything Can Be Customized
 
-| Wear it | Carry it | Display it | Gift it |
-|---------|----------|-----------|---------|
-| T-shirts | Phone Cases | Mugs | Calendars |
-| Hoodies | Canvas Bags | Mouse Pads | All of the above |
-| Sweatshirts | Tote Bags | Notebooks | |
-| Kids Clothing | Stickers | | |
-| Underwear | | | |
+Custyle isn't limited to a fixed product catalog. We've built a **Product Engine** — an intelligent layer that connects to global supply chains, sourcing manufacturers who can custom-produce what your idea demands. For every design, the engine finds the right supplier, the right technique, and the right material.
+
+The vision: **everything can be customized.** A T-shirt today. A pair of custom sneakers tomorrow. A piece of projection jewelry next week. The Product Engine is the bridge between your imagination and the world's manufacturing capabilities.
+
+### Hundreds of Product Types Across 12+ Categories
+
+<details>
+<summary><b>Apparel</b> — Men's, Women's, Kids & Youth</summary>
+
+T-shirts · All-over shirts · Polo shirts · Tank tops · Crop tops · Long sleeve shirts · 3/4 sleeve shirts · Embroidered shirts · Hawaiian shirts · Hoodies · Sweatshirts · Jackets & vests · Knitwear · Dresses · Sweatpants & joggers · Leggings · Shorts · Pants · Skirts · Underwear · Swimwear · Sleepwear · Sports bras · Photo pajamas · Baby bodysuits
+</details>
+
+<details>
+<summary><b>Hats</b></summary>
+
+Beanies · Baseball caps · Snapbacks · Trucker hats · 5-panel hats · Mesh hats · Bucket hats · Visors
+</details>
+
+<details>
+<summary><b>Bags & Wallets</b></summary>
+
+Tote bags · Backpacks · Duffle bags · Drawstring bags · Fanny packs · Handbags · School bags · Canvas bags · Men's wallets · Women's wallets
+</details>
+
+<details>
+<summary><b>Footwear</b></summary>
+
+Shoes · Flip flops · Slippers · Socks
+</details>
+
+<details>
+<summary><b>Accessories</b></summary>
+
+Keychains (acrylic, leather, crystal, metal, wood, building block) · Patches · Pins · Hair accessories · Face masks · Lighters · Magic cubes
+</details>
+
+<details>
+<summary><b>Tech Accessories</b></summary>
+
+Phone cases · AirPods & earphone cases · Laptop cases · Mouse pads
+</details>
+
+<details>
+<summary><b>Home & Living</b></summary>
+
+Wall art · Posters · Framed posters · Canvas prints · Metal prints · Blankets · Pillows & pillow cases · Candles · Night lights · Photo frames · Desk decor · Hanging ornaments · Floor mats · Flags & signs · Magnets · Puzzles · Building bricks · Plant pots · Lantern lights · Balloons · Holiday decor
+</details>
+
+<details>
+<summary><b>Drinkware</b></summary>
+
+Mugs · Tumblers · Water bottles · Coasters · Glassware
+</details>
+
+<details>
+<summary><b>Stationery</b></summary>
+
+Notebooks · Stickers · Postcards · Greeting cards · Calendars
+</details>
+
+<details>
+<summary><b>Jewelry</b></summary>
+
+Photo necklaces · Locket necklaces · Photo watches · Wooden watches · Photo charms · Projection bracelets
+</details>
+
+<details>
+<summary><b>Pet Products</b></summary>
+
+Custom pet accessories and gear
+</details>
+
+<details>
+<summary><b>Toys & Games</b></summary>
+
+Building blocks · Puzzles · Custom figures · Music boxes
+</details>
+
+> This is a partial list. The Product Engine continuously connects new suppliers and manufacturing capabilities. The goal is not "the most SKUs" — it's that **every expression finds its right physical form**, whatever that form may be.
+
+---
 
 ### 8 Expression Scenes
 
-Custyle doesn't organize by product categories. It starts from *why you want to create*:
+The Product Engine is powerful, but Custyle doesn't start from product categories. It starts from *why you want to create*:
 
 | Scene | What it sounds like |
 |-------|-------------------|
@@ -110,7 +184,7 @@ Custyle doesn't organize by product categories. It starts from *why you want to 
 | **Event** | *"Team shirts for our hackathon this weekend"* |
 | **Signal** | *"A tote bag that says 'I have taste' without saying it"* |
 
-These aren't marketing categories. They're the real reasons people create. Every expression finds its right product — whether you wear it, carry it, display it, or gift it.
+You describe the expression. The Product Engine figures out the best product to carry it.
 
 ![From Idea to Merch — Try-on and final merch ready to ship](Custyle_FromIdeatoMerch.png)
 
@@ -118,18 +192,18 @@ These aren't marketing categories. They're the real reasons people create. Every
 
 ## Not Printed On. Built for You.
 
-Custyle is not a print-on-demand platform with an AI skin. It's an AI Agent that understands how to build things right.
+Custyle is not a print-on-demand platform with an AI skin. It's an AI Agent backed by a Product Engine that connects to global supply chains and understands how to build things right.
 
 |  | Design tools | POD platforms | **Custyle** |
 |--|-------------|--------------|---------|
 | **Starting point** | Blank canvas | Upload your design | Describe your idea |
 | **Design skills** | Expert | Intermediate | None |
-| **Product intelligence** | None | None | AI selects best product, process, and material |
+| **Product intelligence** | None | None | Product Engine selects best product, process, material, and supplier |
 | **Preview** | N/A | Basic mockup | AI try-on + lifestyle scenes |
 | **Manufacturing** | N/A | Print what you upload | Built for your specific design |
 | **Result** | Depends on your skill | What you uploaded | What you imagined — made real |
 
-The difference: your design drives the production process. The process matches the material. The material determines the quality. That's what "built for you" means — not a sticker on a blank.
+The difference: your design drives the production process. The process matches the material. The material determines the quality. The Product Engine finds the best manufacturer on the planet to build it. That's what "built for you" means — not a sticker on a blank.
 
 ---
 
@@ -159,7 +233,7 @@ When switching cost approaches zero, the per-unit cost of one piece approaches t
 
 > When creation cost hits zero and single-piece manufacturing becomes viable, the missing piece is: **who translates a person's expression impulse into a manufacturing instruction?**
 
-That's Custyle. Not a factory. Not a design tool. The translation layer between what you feel and what gets built.
+That's Custyle. Not a factory. Not a design tool. A super design-production engine — the translation layer between what you feel and what the world's factories can build. Every imagination deserves a chance to become a physical product.
 
 ```
 Demand Evolution                         Supply Evolution
@@ -192,7 +266,8 @@ Custyle is built as a **multi-agent system**, not a monolithic AI wrapper.
 | **Agent Protocol** | MCP SDK — 25 callable tools for agentic commerce |
 | **Frontend** | Nuxt 3 + Vue 3 + TypeScript + Tailwind CSS |
 | **Backend** | NestJS + Prisma + PostgreSQL + Valkey |
-| **Fulfillment** | Printful global POD network → C2M factory network (Phase 1.5) |
+| **Product Engine** | Global supply chain routing — matches designs to optimal manufacturers |
+| **Fulfillment** | Multi-supplier network (POD + C2M), continuously expanding |
 | **Payments** | Stripe |
 
 ### Reliability
@@ -208,12 +283,12 @@ Custyle is built as a **multi-agent system**, not a monolithic AI wrapper.
 
 | Phase | Status | What |
 |-------|--------|------|
-| **Phase 1: AI Merch Agent** | **Live** | 13 product categories, 9 AI agents, global Printful fulfillment, credit system, virtual try-on |
-| **Phase 1.5: Manufacturing Upgrade** | Next | Connect flexible manufacturing network — real custom capability beyond POD |
+| **Phase 1: AI Merch Agent** | **Live** | Product Engine with hundreds of categories, 9 AI agents, global multi-supplier fulfillment, credit system, virtual try-on |
+| **Phase 1.5: Manufacturing Expansion** | Next | Deeper supply chain integration — more techniques, more materials, more product forms. Moving toward "everything can be customized." |
 | **Phase 2: Expression Scenarios** | Planned | Become the default for expression moments: Pet Merch, Meme Culture, Creator Drops, Gifting, Events |
 | **Phase 3: Agent Protocol** | Planned | Upgrade from website to callable node — any AI agent worldwide can call Custyle for "expression → physical product" |
 
-**The endgame:** when any AI assistant needs to turn expression into a physical product, it calls Custyle.
+**The endgame:** when any AI assistant needs to turn imagination into a physical product — any product — it calls Custyle.
 
 ---
 
@@ -221,7 +296,7 @@ Custyle is built as a **multi-agent system**, not a monolithic AI wrapper.
 
 ### Who is Custyle for?
 
-Anyone who has ideas but not design skills. Gamers celebrating achievements. Couples capturing memories. Friend groups immortalizing inside jokes. Creators launching merch. Small teams making event shirts. If you've ever thought *"I wish this existed on a shirt"* — Custyle is for you.
+Anyone who has ideas but not design skills. Gamers celebrating achievements. Couples capturing memories. Friend groups immortalizing inside jokes. Creators launching merch. Small teams making event shirts. Someone who wants a custom necklace with a hidden photo. If you've ever thought *"I wish this existed as a real thing"* — Custyle is for you.
 
 ### Do I need design skills?
 
@@ -239,9 +314,13 @@ Image generators give you a PNG. Custyle gives you a physical product. The desig
 
 Design generation takes minutes. Production and shipping depend on your location — typically 3-7 business days via Printful's global fulfillment network.
 
+### What products can I make?
+
+Hundreds of product types across apparel, hats, bags, footwear, accessories, home decor, drinkware, stationery, jewelry, tech accessories, pet products, and more. The Product Engine continuously connects to new suppliers — the catalog is always growing. The goal is that every expression finds its right physical form.
+
 ### What does it cost?
 
-T-shirts start around $20. Mugs around $12. Pro membership at $19.9/month unlocks more credits and priority access to new features.
+T-shirts start around $20. Mugs around $12. Pricing varies by product type and manufacturing technique. Pro membership at $19.9/month unlocks more credits and priority access to new features.
 
 ### Can I sell what I create?
 
