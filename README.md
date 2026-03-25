@@ -13,7 +13,7 @@ You have a vibe — a memory, a meme, an inside joke, an aesthetic that's just *
 
 **[Turn any vibe into something real →](https://custyle.ai)**
 
-![Custyle Homepage](https://github.com/Custyle/custyle-ai/raw/main/Your%20Vibe–Made%20Real.png)
+![Custyle Homepage — Your Vibe, Made Real](Your%20Vibe-Made%20Real.png)
 
 ---
 
@@ -57,10 +57,9 @@ One-click order → Built and shipped to your door
 
 From feeling to physical product. Minutes, not weeks.
 
-![Create with AI — Start from a prompt or photo]([Custyle_CreatewithAI.png](https://github.com/Custyle/custyle-ai/blob/main/Your%20Vibe-Made%20Real.png))
+![How It Works — From Taste to Merch in Minutes](How%20It%20Works.png)
 
-
-![Interactive Design Process — Explore multiple variations](Custyle_InteractiveDesigProcess.png)
+![Chat to Merch — AI agents create your design through conversation](Chat%20to%20merch.png)
 
 ---
 
@@ -82,6 +81,8 @@ Not one AI. A whole crew built to get your merch right.
 
 Every design goes through 9 layers of intelligence. Not just generated — shaped, matched, placed, and built for real-world quality.
 
+![Meet the Crew — 9 AI Agents, One Creative Team](Custyle%20AIteam.png)
+
 ---
 
 ## What You Can Create
@@ -91,6 +92,8 @@ Every design goes through 9 layers of intelligence. Not just generated — shape
 Custyle isn't limited to a fixed product catalog. We've built a **Product Engine** — an intelligent layer that connects to global supply chains, sourcing manufacturers who can custom-produce what your idea demands. For every design, the engine finds the right supplier, the right technique, and the right material.
 
 The vision: **everything can be customized.** A T-shirt today. A pair of custom sneakers tomorrow. A piece of projection jewelry next week. The Product Engine is the bridge between your imagination and the world's manufacturing capabilities.
+
+![Custyle Product Overview — Explore and create custom merch](Custyle%20Product%20Overview.png)
 
 ### Hundreds of Product Types Across 12+ Categories
 
@@ -168,6 +171,8 @@ Building blocks · Puzzles · Custom figures · Music boxes
 
 > This is a partial list. The Product Engine continuously connects new suppliers and manufacturing capabilities. The goal is not "the most SKUs" — it's that **every expression finds its right physical form**, whatever that form may be.
 
+![Product Categories — Browse hundreds of customizable products](Custyle%20catagory.png)
+
 ---
 
 ### 8 Expression Scenes
@@ -187,7 +192,7 @@ The Product Engine is powerful, but Custyle doesn't start from product categorie
 
 You describe the expression. The Product Engine figures out the best product to carry it.
 
-![From Idea to Merch — Try-on and final merch ready to ship](Custyle_FromIdeatoMerch.png)
+![What Will You Create — Find your expression scene](What%20Will%20You%20Create.png)
 
 ---
 
@@ -205,6 +210,10 @@ Custyle is not a print-on-demand platform with an AI skin. It's an AI Agent back
 | **Result** | Depends on your skill | What you uploaded | What you imagined — made real |
 
 The difference: your design drives the production process. The process matches the material. The material determines the quality. The Product Engine finds the best manufacturer on the planet to build it. That's what "built for you" means — not a sticker on a blank.
+
+![Product Details — Try-on preview and one-click order](Custyle%20product%20details.png)
+
+![Add to Cart — Seamless checkout experience](Custyle%20add%20to%20cart.png)
 
 ---
 
@@ -330,6 +339,12 @@ Yes. Create, publish, and sell. Every user can be a creator, buyer, and seller i
 ### Is AI replacing human creativity?
 
 No. Your taste is the input, not the output. AI handles the execution gap — the space between "I have an idea" and "I'm holding the product." Your aesthetic judgment drives everything. AI makes the cost of execution approach zero. It doesn't replace what only you can bring: your point of view.
+
+---
+
+![Real People Real Merch — What others say about Custyle](Real%20People%20Real%20Merch.png)
+
+![Made with Custyle — Community creations gallery](Made%20with%20Custyle.png)
 
 ---
 
